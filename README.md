@@ -7,7 +7,7 @@
 
 
 ### About me 💬
-I'm a {DevOps Engineer and Gamer} DevOps at [@eusouwillbank] (https://www.willbank.com.br/) and Gamer at [@irracionaisgaming]  (https://www.facebook.com/irracionaisgaming) I really love play video games with my friends and I love learn about a lot things, technology, games, electronic is my area... Also I like learn about many culture around the world. 
+I'm a {DevOps Engineer and Gamer} DevOps at [@pagar.me] (https://pagar.me/) and Gamer at [@irracionaisgaming]  (https://www.facebook.com/irracionaisgaming) I really love play video games with my friends and I love learn about a lot things, technology, games, electronic is my area... Also I like learn about many culture around the world. 
 
 - DevOps Engineer | Infrastructure | IT Support Technician :wrench:
 - Information Technology Management :mortar_board:
