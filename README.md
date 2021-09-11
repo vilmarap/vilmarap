@@ -11,7 +11,7 @@ I'm a {DevOps Engineer and Gamer} DevOps at [@pagar.me] (https://pagar.me/) and 
 
 - DevOps Engineer | Infrastructure | IT Support Technician :wrench:
 - Information Technology Management :mortar_board:
-- I've been working with some tools like: Docker | Terraform | Rancher | Ansible | AWS | ELK | Jenkins | Bitbucket | Cloudflare | Nginx | Linux | Windows Server | Firewall Fortinet | Gsuite | Telecom  etc.. 🌱
+- I've been working with some tools like: Docker | Terraform | Rancher | Ansible | AWS | Azure Devops | Azure Cloud | ELK | Jenkins | Bitbucket | Cloudflare | Nginx | Linux | Windows Server | Firewall Fortinet | Gsuite | Telecom  etc.. 🌱
 
 - [Website] (https://pessoalda-ti.blogspot.com/) 💻 - Working on it.
 
