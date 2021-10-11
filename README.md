@@ -7,12 +7,12 @@
 
 
 ### About me 💬
-I'm a {DevOps Engineer and Gamer} DevOps at [@pagar.me] (https://pagar.me/) and Gamer at [@irracionaisgaming]  (https://www.facebook.com/irracionaisgaming) I really love play video games with my friends and I love learn about a lot things, technology, games, electronic is my area... Also I like learn about many culture around the world. 
+DevOps at [@pagar.me](https://pagar.me/) and Gamer at [@irracionaisgaming](https://www.facebook.com/irracionaisgaming) 
 
 - DevOps Engineer | Infrastructure | IT Support Technician :wrench:
 - Information Technology Management :mortar_board:
 - I've been working with some tools like: Docker | Terraform | Rancher | Ansible | AWS | Azure Devops | Azure Cloud | ELK | Jenkins | Bitbucket | Cloudflare | Nginx | Linux | Windows Server | Firewall Fortinet | Gsuite | Telecom  etc.. 🌱
 
-- [Website] (https://pessoalda-ti.blogspot.com/) 💻 - Working on it.
+- [Website](https://pessoalda-ti.blogspot.com/) 💻 - Working on it.
 
 ![Vilmara Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vilmarap&show_icons=true)
