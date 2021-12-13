@@ -15,4 +15,8 @@ DevOps at [@pagar.me](https://pagar.me/) and Gamer at [@irracionaisgaming](https
 
 - [Website](https://pessoalda-ti.blogspot.com/) 💻 - Working on it.
 
-![Vilmara Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vilmarap&show_icons=true)
+<div align="center">
+  <a href="https://github.com/vilmarap">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vilmarap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilmarap&layout=compact&langs_count=7&theme=dark"/>
+</div>
