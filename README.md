@@ -6,7 +6,6 @@
 
 
 ### About me 💬
-DevOps at [@pagar.me](https://pagar.me/) and Gamer at [@irracionaisgaming](https://www.facebook.com/irracionaisgaming) 
 
 - DevOps Engineer | Infrastructure | IT Support Technician :wrench:
 - Information Technology Management :mortar_board:
